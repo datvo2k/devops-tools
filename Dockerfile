@@ -20,6 +20,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     gnutls-bin \
     # Network utilities
     net-tools \
+    dnsutils \
     iproute2 \
     iputils-ping \
     iputils-tracepath \
